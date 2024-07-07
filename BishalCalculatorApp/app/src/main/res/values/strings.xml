@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BishalCalculatorApp</string>
+    <string name="enter_the_value">Enter the value</string>
+    <string name="output">Output</string>
+</resources>
