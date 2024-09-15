@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab6Fragments</string>
+    <string name="the_layout_example">The layout example!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_about_us_page_heram_hai_kasto_xa_sable_hernuholaa">Hello about us page heram hai kasto xa sable hernuholaa</string>
+    <string name="hello_contact_us_page_heram_hai_kasto_xa_sable_hernuholaa">Hello contact us page heram hai kasto xa sable hernuholaa</string>
+    <string name="hello_home_page_heram_hai_kasto_xa_sable_hernuholaa">Hello Home page heram hai kasto xa sable hernuholaa</string>
+    <string name="settings_dherai_nachalam_hai_bigrinxa_feri">Settings dherai nachalam hai bigrinxa feri</string>
+</resources>
